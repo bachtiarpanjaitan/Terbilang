@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author bachtiarpanjaitan
- *
- */
-package Bataxdev;
